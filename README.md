@@ -1,5 +1,5 @@
 # Multimodal Presurgical Brain Tumor Classification
-**STAT3612 Group Project | Spring 2026**
+**STAT3612 Group Project 
 
 This repository contains our team's systematic approach to classifying brain tumors using multimodal data (Imaging, Clinical, and Text). Our goal is to evaluate the contribution of each modality and build a robust, integrated classifier.
 
