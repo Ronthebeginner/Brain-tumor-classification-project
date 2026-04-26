@@ -23,3 +23,12 @@ Our pipeline was developed in three major phases:
 * **Charles:** Multimodal Ensemble Strategies (Soft Voting, Naive Bayes) and Final Pipeline Integration.
 * **Liao & Jun:** Clinical Information and NLP (Textual feature engineering, TF-IDF, Keyword matching)
 
+### 🧪 Experimentation & Ablation Study
+My testing is located in the `Ronny` directory.
+* [**View Ablation Study Notebook**](./Ronny/ablation_study.ipynb)
+
+### 📄 Project Report
+For a detailed analysis of my results, please refer to the:
+* [**Brain Tumor Project Report (Section 3.4 - 3.5)**](./brain%20tumor%20project%20report.pdf#page=6)
+
+
