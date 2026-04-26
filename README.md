@@ -29,6 +29,6 @@ My testing is located in the `Ronny` directory.
 
 ### 📄 Project Report
 For a detailed analysis of my results, please refer to the:
-* [**Brain Tumor Project Report (Section 3.4 - 3.5)**](./brain%20tumor%20project%20report.pdf#page=6)
+* [**Brain Tumor Project Report (Section 3.4 - 3.5)**](./Brain%20tumor%20project%20report.pdf#page=6)
 
 
